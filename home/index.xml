@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Billy Fang</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Billy Fang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Billy Fang</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>Multivariate extensions of isotonic regression and total variation denoising via entire monotonicity and Hardy-Krause variation
+Billy Fang, Adityanand Guntuboyina, Bodhisattva Sen
+Annals of Statistics. 2021. [Journal] [arXiv]
+From Gauss to Kolmogorov: Localized Measures of Complexity for Ellipses
+Yuting Wei, Billy Fang, Martin J. Wainwright
+Electronic Journal of Statistics. 2020. [Journal] [arXiv]
+On the risk of convex-constrained least squares estimators under misspecification
+Billy Fang, Adityanand Guntuboyina
+Bernoulli. 2019. [Journal] [arXiv]</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>Graduate student instructor, UC Berkeley
+ STAT 154 (Modern Statistical Prediction and Machine Learning). Fall 2020. STAT 151A (Linear Modeling). Fall 2019. STAT 134 (Concepts of Probability). Summer 2018. STAT 151A (Linear Modeling). Fall 2017. STAT 134 (Concepts of Probability). Summer 2016.  </description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>/home/notes/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/notes/</guid>
+      <description>The following are personal notes and expository material for various courses and topics.
+ Course notes  Information theory. 2016. Analysis of big data. 2015. Probability theory (measure theoretic). 2014. Artificial intelligence. 2013. Probability theory (undergraduate). 2012.  Expository material  Introduction to the Dirichlet Process. 2016.   </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

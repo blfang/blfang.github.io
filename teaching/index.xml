@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Billy Fang</title>
+    <link>/teaching/</link>
+    <description>Recent content in Teaching on Billy Fang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Billy Fang</copyright>
+    <lastBuildDate>Sat, 14 Oct 2017 14:05:27 -0700</lastBuildDate>
+    
+	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>STAT 134 (Concepts of Probability), Summer 2018</title>
+      <link>/teaching/2018_stat134/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/2018_stat134/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STAT 151A (Linear Modeling), Fall 2017</title>
+      <link>/teaching/2017_stat151a/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/2017_stat151a/</guid>
+      <description> The following notes are largely written by me, so I take responsibility for any errors. Some of the code is based on material from previous iterations of the course.
+Notes for discussion section  Lab 1 (September 1)  Data visualization tools [HTML] Linear algebra review [PDF]  Lab 2 (September 8)  Dummy variables [HTML] Linear algebra review, cont&amp;rsquo;d [PDF]  Lab 3 (September 15)  Hypothesis tests in linear models, lm output [HTML] Distinguishing between results that are inherent to OLS and and those that depend on statistical model, exercises [PDF]  Lab 4 (September 22)  Hypothesis tests in linear models ($t$-test, $F$-test) [PDF] F-statistic sample computation [HTML]  Lab 5 (September 29)  One-way ANOVA and sequential ANOVA [HTML] Discuss review questions for Midterm 1  Lab 6 (October 5)  Leverage, Mahalanobis distance, added variable plots, component-plus-residual plots [HTML]  Lab 7 (October 12)  Regression diagnostics: outliers, residuals (standardized, predicted, standardized predicted), Cook&amp;rsquo;s distance [HTML]  Lab 8 (October 19)  Regression diagnostics: variance-stabilizing transformations, Q-Q plots [HTML]  Lab 9 (October 26)  Variable selection (forward/backward stepwise, adjusted $R^2$, AIC, BIC, Mallows&amp;rsquo;s $C_p$) [HTML] Ant dataset discussion  Lab 10 (November 3)  Cross-validation [HTML] Discuss review questions for Midterm 2 Review: one-way ANOVA, delta method for variance-stabilizing transformations, added variable plot proof [PDF]  Lab 11 (November 17)  Generalized linear models (review, residual deviance, null deviance, glm, prediction example with logistic model, choosing a threshold, ROC curve) [HTML]  Lab 12 (December 1)  Classification trees (impurity, reading rpart output, printcp) and shrinkage (ridge regression, LASSO, elastic net, glmnet) [HTML]   Miscellaneous  Interpretation of multiple regression coefficient via added variable plot, variance inflation factor [PDF] Note on relationship between leverage and residuals [PDF]  </description>
+    </item>
+    
+    <item>
+      <title>STAT 134 (Concepts of Probability), Summer 2016</title>
+      <link>/teaching/2016_stat134/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/2016_stat134/</guid>
+      <description> Notes on Poisson processes.  </description>
+    </item>
+    
+  </channel>
+</rss>
